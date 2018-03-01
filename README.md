@@ -57,7 +57,7 @@ See `parse.py`.  It's a really simple line-based parser but works becuase the fo
 
 ## Data
 
-See `data/treasury_income.csv'.  The data are (mostly) tidy:
+See `data/treasury_income.csv`.  The data are (mostly) tidy:
 
 - ds: date of the statement
 - mtd: month to date tally of the revenue
