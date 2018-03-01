@@ -1,0 +1,341 @@
+1                             DAILY TREASURY STATEMENT                               PAGE: 1
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE I  Operating Cash Balance
+ ___________________________________________________________________________________________
+                                                                 Opening balance
+                                           Closing   ______________________________________
+            Type of account                balance                    This         This
+                                            today        Today        month       fiscal
+                                                                                   year
+____________________________________________________________________________________________
+ 
+ Federal Reserve Account                $     88,386 $     16,949 $     26,135 $      85,446
+ Supplementary Financing Program
+ Account                                           0            0            0             0
+ Short-Term Cash Investments (Table V)             0            0            0             0
+   Total Operating Balance              $     88,386 $     16,949 $     26,135 $      85,446
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 2
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE II  Deposits and Withdrawals of Operating Cash
+ ___________________________________________________________________________________________
+                                                                     This         Fiscal
+                     Deposits                          Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ Federal Reserve Account:
+   Agriculture Loan Repayments (misc)              $           0 $         681 $       9,011
+   Air Transport Security Fees                               159           196         2,352
+   Cash FTD's Received (Table IV)                         17,274       229,525     2,333,958
+   Commodity Credit Corporation programs                     130           521         8,317
+   Customs and Certain Excise Taxes                          104         3,798        42,605
+   Deposits by States:
+    Supplemental Security Income                             299           360         4,385
+    Unemployment                                              12         1,300        50,593
+   Education Department programs                             195         2,887        37,515
+   Energy Department programs                                107           607         8,011
+   Estate and Gift Taxes                                      71         1,112        19,387
+   Federal Reserve Earnings                                    0         6,311        75,767
+   Foreign Deposits, Military Sales                           28         2,145        23,476
+   Housing and Urban Development programs                      7           398         5,087
+   Individual Income and Employment
+    Taxes, Not Withheld                                      431        59,974       439,489
+   Interest recd from cash investments                         0             0             0
+   Justice Department programs                                 8           696         7,971
+   Postal Service                                            349         6,886        87,573
+   Public Debt Cash Issues (Table III-B)                 110,523       751,695     8,323,949
+   Other Deposits:
+    Comptroller of the Currency-Assessment                   478           881         1,892
+    Defense Finance & Accounting Service                      55           573         7,422
+    Deposit Insurance Fund                                 2,744         5,501        12,759
+    Federal Finance Bank                                     432           648         2,733
+    FSA Tobacco Assessments                                  167           227           946
+    Fed. Crop Ins. Corp. Fund Premiums                     2,541         3,421         6,218
+    Federal Housing Admin: Note Sales                         72         3,017        23,664
+    GSE Dividends                                         14,600        14,600        95,727
+    Minerals Management Svc/Collections                      768         1,429        11,911
+    TARP                                                     136           923        38,475
+    Thrift Savings Plan Transfer                             265         3,676        31,402
+    Total Other Deposits                                  22,258        38,682       269,731
+   Change in Balance of Uncollected
+    Funds                                                      0             0             0
+   Transfers from Depositaries                                 0             0             0
+     Total Federal Reserve Account                       151,956     1,107,774    11,749,177
+ Short-Term Cash Investments:
+ Transfers from Federal Reserve Account
+   (Table V)                                                   0             0             0
+ Total Deposits (excluding transfers)              $     151,956 $   1,107,774 $  11,749,177
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 3
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+___________________________________________________________________________________________
+                                                                     This         Fiscal
+                    Withdrawals                        Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ Federal Reserve Account:
+   Commodity Credit Corporation programs           $         39  $        576  $      17,128
+   Defense Vendor Payments (EFT)                          1,151        31,581        343,091
+   Education Department programs                          1,591        26,074        203,022
+   Energy Department programs                               242         2,697         34,150
+   Federal Employees Insurance Payments                     183         5,761         70,464
+   Fed. Highway Administration programs                       7         5,387         44,461
+   Federal Salaries (EFT)                                 1,382        14,582        171,285
+   Food and Nutrition Service (misc)                        379         8,023        103,353
+   GSA programs                                              57         1,596         19,551
+   Health and Human Services Grants (misc)                  811         8,036         97,049
+   Housing and Urban Development programs                   142         6,163         80,898
+   Interest on Treasury Securities                        5,862        12,115        224,695
+   IRS Tax Refunds Business (EFT)                           320         1,711         23,135
+   IRS Tax Refunds Individual (EFT)                          39         1,313        239,178
+   Justice Department programs                                6         1,453         15,420
+   Labor Dept. prgms (excl. unemployment)                    73         1,194         14,398
+   Medicaid                                                 466        21,443        260,252
+   Medicare                                               1,640        28,855        573,180
+   NASA programs                                              0         1,656         16,433
+   Postal Service Money Orders and Other                    450         3,236         40,077
+   Public Debt Cash Redemp. (Table III-B)                63,295       748,625      7,546,726
+   Social Security Benefits (EFT)                             1        61,660        719,415
+   Supple. Nutrition Assist. Program (SNAP)                  36           272          3,840
+   Temporary Assistance for Needy
+    Families (HHS)                                           86         1,473         17,237
+   Transportation Security Admin. (DHS)                       0            36            565
+   Unemployment Insurance Benefits                          160         4,177         67,842
+   Veterans Affairs programs                                284         3,944         45,737
+   Other Withdrawals:
+    Agency for Internat'l Development                       107         1,833         13,445
+    Centers for Disease Control                             113           861          5,739
+    Deposit Insurance Fund                                  253         1,098         11,837
+    Emergency Prep & Response (DHS)                          53         1,085         21,277
+    Federal Aviation Administration                          74           822          8,037
+    Foreign Military Sales Program                          194           200            662
+    Pension Benefit Guaranty Corp.                          451           482          5,778
+    State Department                                         94         2,415         10,937
+    Unclassified                                            478        17,559        282,009
+    Total, Other Withdrawals                              1,816        41,886        753,655
+   Transfers to Depositaries                                  0             0              0
+     Total Federal Reserve Account                       80,519     1,045,523     11,746,237
+ Short-Term Cash Investments:
+   Transfers to Federal Reserve Account
+    (Table V)                                                 0             0              0
+ Total Withdrawals (excluding transfers)           $     80,519  $  1,045,523  $  11,746,237
+ Net Change in Operating Cash Balance              $     71,437  $     62,251  $       2,940
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 4
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE III-A  Public Debt Transactions
+ ___________________________________________________________________________________________
+                                                                     This         Fiscal
+                      Issues                           Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ Marketable:
+   Bills:
+    Regular Series                                 $          0  $    396,999  $   5,403,893
+    Cash Management Series                                    0        65,002        355,009
+   Notes                                                110,000       260,000      2,060,984
+   Bonds                                                      0        13,000        190,992
+   Inflation-Protected Securities Increment                  85           543         17,373
+   Federal Financing Bank                                     0             0              0
+ Nonmarketable:
+   United States Savings Securities:
+    Cash Issue Price                                          3            32            913
+    Interest Increment                                        1           427          5,841
+   Government Account Series                            141,554     2,582,152     53,807,040
+   Hope Bonds                                                 0             0              0
+   Domestic Series                                            0             0            125
+   Foreign Series                                             0             0              0
+   State and Local Series                                     0             0         93,433
+   Other                                                    903        18,781        227,876
+ Total Issues                                      $    252,545  $  3,336,936  $  62,163,479
+ (Stated at face value except for savings and retirement plan
+ securities which are stated at current redemption values.)
+ ___________________________________________________________________________________________
+                                                                     This         Fiscal
+                   Redemptions                         Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ Marketable:
+   Bills                                           $           0 $    569,993 $    5,844,938
+   Notes                                                  62,310      155,575      1,335,497
+   Bonds                                                       0            0              1
+   Federal Financing Bank                                      0            0          1,416
+ Nonmarketable:
+   United States Savings Securities                           36          706         10,393
+   Government Account Series                             189,500    2,588,777     53,943,395
+   Hope Bonds                                                  0            0              0
+   Domestic Series                                             0            0            125
+   Foreign Series                                              0            0              0
+   State and Local Series                                     42        3,554        127,868
+   Other                                                     907       18,796        227,903
+ Total Redemptions                                 $     252,795 $  3,337,402 $   61,491,537
+ Net Change in Public Debt Outstanding             $        -250 $       -466 $      671,942
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 5
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE III-B  Adjustment of Public Debt Transactions to Cash Basis
+ ___________________________________________________________________________________________
+                                                                     This         Fiscal
+                   Transactions                        Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ Public Debt Cash Issues:
+   Public Debt Issues (Table III-A)                $     252,545 $   3,336,936 $  62,163,479
+   Premium on New Issues                                       0             0         7,413
+   Discount on New Issues:
+    Bills (-)                                                  0            56         1,610
+    Bonds and Notes (-)                                      431         2,111        15,979
+   Federal Financing Bank (-)                                  0             0             0
+   Government Account Transactions (-)                   141,554     2,582,152    53,807,040
+   Hope Bonds (-)                                              0             0             0
+   Interest Increment on United States
+    Savings Securities (-)                                     1           427         5,841
+   Inflation-Protected Securities Increment                   36           494        16,473
+   Total Public Debt Cash Issues
+    Deposited in Federal Reserve Account           $     110,523 $     751,695 $   8,323,949
+ Public Debt Cash Redemptions:
+   Public Debt Redemptions (Table III-A)           $     252,795 $   3,337,402 $  61,491,537
+   Premium on Debt Buyback Operation                           0             0             0
+   Discount on Debt Buyback Operation (-)                      0             0             0
+   Federal Financing Bank (-)                                  0             0         1,416
+   Government Account Transactions (-)                   189,500     2,588,777    53,943,395
+   Hope Bonds (-)                                              0             0             0
+   Total Public Debt Cash Redemptions
+    Withdrawn from Federal Reserve Acct.           $      63,295 $     748,625 $   7,546,726
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 6
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE III-C  Debt Subject to Limit
+ ___________________________________________________________________________________________
+                                                                 Opening balance
+                                          Closing    ______________________________________
+         Balance Transactions             balance                     This         This
+                                           today         Today        month       fiscal
+                                                                                   year
+____________________________________________________________________________________________
+ 
+ Debt Held by the Public              $   11,976,279 $ 11,967,508 $ 11,967,014 $  11,269,586
+ Intragovernmental Holdings                4,761,904    4,770,925    4,771,636     4,796,656
+ Total Public Debt
+    Outstanding                           16,738,184   16,738,433   16,738,650    16,066,241
+ Less: Debt Not
+   Subject to Limit:
+    Other Debt                                   485          485          485           486
+    Unamortized Discount                      32,113       32,363       32,580        31,130
+    Federal Financing Bank                     5,695        5,695        5,695         7,112
+    Hope Bonds                                   494          494          494           493
+ Plus: Other Debt Subject to Limit
+   Guaranteed Debt of
+    Government Agencies                            0            0            0             0
+ Total Public Debt
+    Subject to Limit                  $   16,699,396 $ 16,699,396 $ 16,699,396 $  16,027,021
+ Statutory Debt Limit                 $   16,699,421 $ 16,699,421 $ 16,699,421 $  16,394,000
+ As of May 19, 2013 the debt limit was increased to $16,699,421,095,673.60.
+
+  Unamortized Discount represents the discount adjustment on  Treasury bills and zero-coupon
+ bonds (amortization is calculated daily).
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 7
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE IV  Federal Tax Deposits
+ ___________________________________________________________________________________________
+                                                                     This         Fiscal
+                  Classification                       Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ Withheld Income and Employment Taxes              $     14,232  $    160,417 $    1,957,915
+ Individual Income Taxes                                     77         5,345         56,947
+ Railroad Retirement Taxes                                   42           417          5,325
+ Excise Taxes                                             2,734        11,295         83,448
+ Corporation Income Taxes                                   229        58,175        306,314
+ Federal Unemployment Taxes                                   4           192          8,505
+ Estate and Gift Taxes & Misc IRS Rcpts.                      3            33            767
+    Total                                          $     17,321  $    235,874 $    2,419,221
+ Cash Federal Tax Deposits:
+   Direct                                          $        431  $      3,588 $       36,768
+   Through Depositaries                                  16,842       225,937      2,297,190
+    Total Cash FTD's                               $     17,274  $    229,525 $    2,333,958
+ Inter-agency Transfers                                      48         6,349         85,263
+    Total                                          $     17,321  $    235,874 $    2,419,221
+ ___________________________________________________________________________________________
+      TABLE V  Short-Term Cash Investments
+ ___________________________________________________________________________________________
+                                                  Type of Depositary
+          Balance Transactions          ______________________________________     Total
+                                              A            B            C
+____________________________________________________________________________________________
+ 
+ Opening Balance Today                  $          0 $          0 $          0 $           0
+ Deposits:
+   Transfers to Depositaries                       0            0            0             0
+   Special Direct Investment                       0            0            0             0
+   Term Investment                                 0            0            0             0
+   Repo Investment                                 0            0            0             0
+ Withdrawals:
+   Treasury Initiated                              0            0            0             0
+   Depositary Initiated                            0            0            0             0
+   Special Direct Investment                       0            0            0             0
+   Term Investment                                 0            0            0             0
+   Repo Investment                                 0            0            0             0
+ Closing Balance Today                  $          0 $          0 $          0 $           0
+
+ 1                             DAILY TREASURY STATEMENT                               PAGE: 8
+               Cash and debt operations of the United States Treasury
+                              Monday, September 30, 2013
+                (Detail, rounded in millions, may not add to totals)
+ ___________________________________________________________________________________________
+      TABLE VI  Income Tax Refunds Issued
+ ___________________________________________________________________________________________
+                                                                     This         Fiscal
+                  Classification                       Today         month         year
+                                                                    to date      to date
+____________________________________________________________________________________________
+ 
+ IRS Tax Refunds Business (Checks)                 $        140  $      2,505 $       32,572
+ IRS Tax Refunds Business (EFT)                             320         1,711         23,135
+ IRS Tax Refunds Individual (Checks)                         29      1/ 1,816      1/ 71,279
+ IRS Tax Refunds Individual (EFT)                            39      1/ 1,313     1/ 239,178
+ 1/Does not include $38 million offset by FMS for the month  of September 2013, and $5,578
+ million for the fiscal year-to-date for the Treasury Offset  Program against Tax Refunds
+ issued.
+   This statement summarizes  the United States Treasury's cash and debt
+   operations for the Federal  Government. Treasury's operating cash is maintained
+   in account(s) at the Federal  Reserve Bank of New York and in short-term cash
+   investments. Treasury minimized  and then suspended its short-term cash
+   investment program beginning  in November 2008, but anticipates investing again
+   when market conditions warrant.  Major information sources include: Federal
+   Reserve Banks, Treasury Regional  Financial Centers, Internal Revenue Service
+   Centers, Bureau of the Public  Debt and various electronic systems. Information
+   is presented on a modified  cash basis. Deposits are reflected as received and
+   withdrawals are reflected  as processed.
+
+ SOURCE: Financial Management  Service (FMS), Department of the Treasury. Note:
+   The Daily Treasury Statement  (DTS) is available by 4:00 p.m. the following
+   business day on the FMS website  www.fms.treas.gov/dts. For more information,
+   call the Cash Forecasting  Division at 202-874-9789.
